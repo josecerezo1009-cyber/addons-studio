@@ -1,0 +1,6 @@
+{
+  "name": "AI Ecommerce App Marketplace",
+  "description": "Plataforma SaaS profesional para crear, publicar, vender e instalar aplicaciones ecommerce con Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
